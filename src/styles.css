@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #353739;
+  padding: 5%;
+}
+
+.btncontainer {
+  padding: 5%;
+}
+
+.btncontainer button {
+  padding: 2% 5%;
+  background-color: #656769;
+  color: #e4e4e4;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+
+.btncontainer button:hover {
+  background-color: #ff4257;
+}
